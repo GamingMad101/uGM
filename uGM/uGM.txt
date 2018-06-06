@@ -1,0 +1,28 @@
+"superkillers"
+{
+	"base"		"base"
+	"title"		"uGM"
+	"maps"		"^uGM_"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+		1
+		{
+			"name"		"ugm_startcash"
+			"text"		"Starter Money"
+			"help"		"The Starting amount of money"
+			"type"		"numeric"
+			"default"	"1000"
+		}
+
+		2
+		{
+			"name"		"ugm_devmode"
+			"text"		"Enable Devmode"
+			"help"		"Tick this if you want Devmode on"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+	}		
+}
